@@ -1,0 +1,31 @@
+# Copied Prompt Repository
+
+## Purpose
+This repository is designed to store copied prompts and related documentation.
+
+## Instructions
+Please paste your copied prompt content here.
+
+---
+
+## Placeholder for Prompt Content
+
+[PASTE YOUR COPIED PROMPT HERE]
+
+---
+
+## Additional Details
+
+### Tags (to be added)
+- prompt-storage
+- documentation
+- content-management
+
+### License
+Consider adding an appropriate license (e.g., MIT, Apache 2.0, or GPL) based on your needs.
+
+### Description
+Repository for storing copied prompts and related documentation
+
+### Contributing
+Feel free to add more prompts or improve the organization of this repository.
